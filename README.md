@@ -1,0 +1,2 @@
+# Automatic-Attendence-System-using-face-recognition
+ While taking or giving attendence we need to do some work like, calling employees/students manually (or) swiping ID card (or) giving Bio-metric (or) seperately logging in to website etc., But now nothing to do, Just look at your CC camera, that's it !! your attendence is recorded. It is fastest and secured way to take or to give the attendance.
